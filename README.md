@@ -2,7 +2,14 @@
 
 OpenManus is an agent-based system that can execute tasks, generate documents, conduct research, and more.
 
+## Demo video
+https://github.com/user-attachments/assets/9af20224-d496-4b54-9634-d72c7c8139b7
+
 ## Installation
+
+
+
+
 
 1. Clone the repository:
 ```bash
