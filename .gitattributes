@@ -1,0 +1,6 @@
+# EOL (end-of-line) normalization to avoid potential merge conflict
+# when cross-platform collaboration is required. Windows uses CRLF as EOL,
+# while Unix-like systems including macOS and Linux uses LF.
+# The EOL character is invisible that it's might be confused
+# when such merge conflict occurs.
+* text=auto eol=lf
