@@ -1,18 +1,15 @@
 # OpenManus - Python Agent System
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/jkT5udP9bw)
 
-<img width="1307" alt="image" src="https://github.com/user-attachments/assets/9059d1b4-ba4e-422e-94b3-fee693a3411b" />
-
-OpenManus is an agent-based system that can execute tasks, generate documents, conduct research, and more.
+ManusPro is an agent-based system that can execute tasks, generate documents, conduct research, and more.
 
 ## Demo video
 https://github.com/user-attachments/assets/9af20224-d496-4b54-9634-d72c7c8139b7
 
+Checkout the frontend branch:
+<img width="1307" alt="image" src="https://github.com/user-attachments/assets/9059d1b4-ba4e-422e-94b3-fee693a3411b" />
+
 ## Installation
-
-
-
-
 
 1. Clone the repository:
 ```bash
