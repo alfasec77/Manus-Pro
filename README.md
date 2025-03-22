@@ -1,6 +1,6 @@
 # OpenManus - Python Agent System
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/jkT5udP9bw)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/xinyzng)
+[![Twitter](https://img.shields.io/badge/Follow-@xinyzng-1DA1F2?logo=twitter&logoColor=white)](https://x.com/xinyzng)
 
 ManusPro is an agent-based system that can execute tasks, generate documents, conduct research, and more.
 
